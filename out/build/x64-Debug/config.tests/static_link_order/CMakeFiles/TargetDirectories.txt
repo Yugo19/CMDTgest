@@ -1,0 +1,5 @@
+C:/Users/Wakfu/Documents/Inventaire_cmd/out/build/x64-Debug/config.tests/static_link_order/CMakeFiles/objLib.dir
+C:/Users/Wakfu/Documents/Inventaire_cmd/out/build/x64-Debug/config.tests/static_link_order/CMakeFiles/staticLib.dir
+C:/Users/Wakfu/Documents/Inventaire_cmd/out/build/x64-Debug/config.tests/static_link_order/CMakeFiles/edit_cache.dir
+C:/Users/Wakfu/Documents/Inventaire_cmd/out/build/x64-Debug/config.tests/static_link_order/CMakeFiles/static_link_order_test.dir
+C:/Users/Wakfu/Documents/Inventaire_cmd/out/build/x64-Debug/config.tests/static_link_order/CMakeFiles/rebuild_cache.dir

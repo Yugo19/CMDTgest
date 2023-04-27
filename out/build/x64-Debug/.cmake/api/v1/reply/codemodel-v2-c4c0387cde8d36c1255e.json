@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Inventaire_cmd",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Inventaire_cmd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Inventaire_cmd-Debug-0558033bb655771f6ceb.json",
+					"name" : "Inventaire_cmd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Inventaire_cmd_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Inventaire_cmd_autogen-Debug-472ebe07274dbf1e2233.json",
+					"name" : "Inventaire_cmd_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Inventaire_cmd_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Inventaire_cmd_autogen_timestamp_deps-Debug-c4f26b13c38b7f0012ed.json",
+					"name" : "Inventaire_cmd_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Wakfu/Documents/Inventaire_cmd/out/build/x64-Debug",
+		"source" : "C:/Users/Wakfu/Documents/Inventaire_cmd"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
